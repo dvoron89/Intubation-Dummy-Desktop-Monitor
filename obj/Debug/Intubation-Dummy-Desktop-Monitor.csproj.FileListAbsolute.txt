@@ -1,0 +1,10 @@
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\bin\Debug\Intubation-Dummy-Desktop-Monitor.exe.config
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\bin\Debug\Intubation-Dummy-Desktop-Monitor.exe
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\bin\Debug\Intubation-Dummy-Desktop-Monitor.pdb
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation-Dummy-Desktop-Monitor.csprojAssemblyReference.cache
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation_Dummy_Desktop_Monitor.Form1.resources
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation_Dummy_Desktop_Monitor.Properties.Resources.resources
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation-Dummy-Desktop-Monitor.csproj.GenerateResource.cache
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation-Dummy-Desktop-Monitor.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation-Dummy-Desktop-Monitor.exe
+C:\YandexDisk\Coding\C#\PROJECTS\Release\Intubation-Dummy-Desktop-Monitor\obj\Debug\Intubation-Dummy-Desktop-Monitor.pdb
